@@ -1,0 +1,14 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\bin\Debug\net10.0\TopBrainsQuestions.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\refint\TopBrainsQuestions.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\ref\TopBrainsQuestions.dll
