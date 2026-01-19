@@ -12,3 +12,4 @@ C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10
 C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.pdb
 C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.genruntimeconfig.cache
 C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\ref\TopBrainsQuestions.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\TopBrainsQuestions\obj\Debug\net10.0\TopBrainsQuestions.sourcelink.json
