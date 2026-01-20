@@ -1,0 +1,3 @@
+﻿[ERROR] Failed to connect to database.
+[ERROR] Unable to write to log file.
+[ERROR] Timeout while waiting for response from server.

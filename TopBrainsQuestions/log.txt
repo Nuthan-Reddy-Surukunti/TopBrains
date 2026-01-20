@@ -1,0 +1,8 @@
+[INFO] Application started successfully.
+[WARN] Low disk space on drive C:.
+[ERROR] Failed to connect to database.
+[INFO] User logged in.
+[WARN] High memory usage detected.
+[ERROR] Unable to write to log file.
+[ERROR] Timeout while waiting for response from server.
+[INFO] Application shutdown initiated.
