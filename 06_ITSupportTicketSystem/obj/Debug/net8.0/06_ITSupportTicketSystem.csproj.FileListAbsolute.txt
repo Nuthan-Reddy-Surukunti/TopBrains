@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\bin\Debug\net8.0\06_ITSupportTicketSystem.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\bin\Debug\net8.0\06_ITSupportTicketSystem.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\bin\Debug\net8.0\06_ITSupportTicketSystem.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\bin\Debug\net8.0\06_ITSupportTicketSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\bin\Debug\net8.0\06_ITSupportTicketSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\refint\06_ITSupportTicketSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\06_ITSupportTicketSystem.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\06_ITSupportTicketSystem\obj\Debug\net8.0\ref\06_ITSupportTicketSystem.dll
