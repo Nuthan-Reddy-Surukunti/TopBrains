@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\bin\Debug\net8.0\02_StudentGPARankingSystem.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\bin\Debug\net8.0\02_StudentGPARankingSystem.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\bin\Debug\net8.0\02_StudentGPARankingSystem.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\bin\Debug\net8.0\02_StudentGPARankingSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\bin\Debug\net8.0\02_StudentGPARankingSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\refint\02_StudentGPARankingSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\02_StudentGPARankingSystem.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\02_StudentGPARankingSystem\obj\Debug\net8.0\ref\02_StudentGPARankingSystem.dll
