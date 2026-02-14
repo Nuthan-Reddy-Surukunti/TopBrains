@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\bin\Debug\net8.0\03_BankAccountMonitoringSystem.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\bin\Debug\net8.0\03_BankAccountMonitoringSystem.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\bin\Debug\net8.0\03_BankAccountMonitoringSystem.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\bin\Debug\net8.0\03_BankAccountMonitoringSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\bin\Debug\net8.0\03_BankAccountMonitoringSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\refint\03_BankAccountMonitoringSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\03_BankAccountMonitoringSystem.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\03_BankAccountMonitoringSystem\obj\Debug\net8.0\ref\03_BankAccountMonitoringSystem.dll
