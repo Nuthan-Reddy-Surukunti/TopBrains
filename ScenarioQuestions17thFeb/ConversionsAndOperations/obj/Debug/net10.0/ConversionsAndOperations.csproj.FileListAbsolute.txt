@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\bin\Debug\net10.0\ConversionsAndOperations.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\bin\Debug\net10.0\ConversionsAndOperations.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\bin\Debug\net10.0\ConversionsAndOperations.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\bin\Debug\net10.0\ConversionsAndOperations.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\bin\Debug\net10.0\ConversionsAndOperations.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\refint\ConversionsAndOperations.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ConversionsAndOperations.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\ConversionsAndOperations\obj\Debug\net10.0\ref\ConversionsAndOperations.dll

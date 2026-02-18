@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FlexibleInventorySystem_Prctice/1.0.0": {
+        "runtime": {
+          "FlexibleInventorySystem_Prctice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FlexibleInventorySystem_Prctice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

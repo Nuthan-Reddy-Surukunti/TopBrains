@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\bin\Debug\net10.0\SmartBankingSystems.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\bin\Debug\net10.0\SmartBankingSystems.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\bin\Debug\net10.0\SmartBankingSystems.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\bin\Debug\net10.0\SmartBankingSystems.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\bin\Debug\net10.0\SmartBankingSystems.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\refint\SmartBankingSystems.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\SmartBankingSystems.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SmartBankingSystems\obj\Debug\net10.0\ref\SmartBankingSystems.dll

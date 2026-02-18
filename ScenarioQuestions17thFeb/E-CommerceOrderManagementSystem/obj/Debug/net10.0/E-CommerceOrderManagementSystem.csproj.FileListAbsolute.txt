@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\bin\Debug\net10.0\E-CommerceOrderManagementSystem.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\bin\Debug\net10.0\E-CommerceOrderManagementSystem.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\bin\Debug\net10.0\E-CommerceOrderManagementSystem.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\bin\Debug\net10.0\E-CommerceOrderManagementSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\bin\Debug\net10.0\E-CommerceOrderManagementSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\refint\E-CommerceOrderManagementSystem.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\E-CommerceOrderManagementSystem.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\E-CommerceOrderManagementSystem\obj\Debug\net10.0\ref\E-CommerceOrderManagementSystem.dll

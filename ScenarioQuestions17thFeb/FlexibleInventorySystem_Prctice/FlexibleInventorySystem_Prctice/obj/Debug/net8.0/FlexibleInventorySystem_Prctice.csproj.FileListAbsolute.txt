@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\bin\Debug\net8.0\FlexibleInventorySystem_Prctice.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\bin\Debug\net8.0\FlexibleInventorySystem_Prctice.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\bin\Debug\net8.0\FlexibleInventorySystem_Prctice.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\bin\Debug\net8.0\FlexibleInventorySystem_Prctice.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\bin\Debug\net8.0\FlexibleInventorySystem_Prctice.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\refint\FlexibleInventorySystem_Prctice.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\FlexibleInventorySystem_Prctice.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\FlexibleInventorySystem_Prctice\FlexibleInventorySystem_Prctice\obj\Debug\net8.0\ref\FlexibleInventorySystem_Prctice.dll

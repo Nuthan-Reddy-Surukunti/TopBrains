@@ -24,7 +24,7 @@ namespace Services
         public void RemoveEntity(int key)
         {
             // TODO: Remove entity logic
-        }
+        }   
 
         public IEnumerable<BaseEntity> GetAll()
         {

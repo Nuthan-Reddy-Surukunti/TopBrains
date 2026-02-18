@@ -1,0 +1,15 @@
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.AssemblyInfoInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.AssemblyInfo.cs
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.csproj.CoreCompileInputs.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.sourcelink.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/bin/Debug/net10.0/E-CommerceShoppingCart
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/bin/Debug/net10.0/E-CommerceShoppingCart.deps.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/bin/Debug/net10.0/E-CommerceShoppingCart.runtimeconfig.json
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/bin/Debug/net10.0/E-CommerceShoppingCart.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/bin/Debug/net10.0/E-CommerceShoppingCart.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/refint/E-CommerceShoppingCart.dll
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.pdb
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/E-CommerceShoppingCart.genruntimeconfig.cache
+/Users/mustafeezullakhansuryazi/Desktop/Assignments/19DayTopBrains/Collections&Generics/E-CommerceShoppingCart/obj/Debug/net10.0/ref/E-CommerceShoppingCart.dll

@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\bin\Debug\net10.0\FlexibleInventory.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\bin\Debug\net10.0\FlexibleInventory.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\bin\Debug\net10.0\FlexibleInventory.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\bin\Debug\net10.0\FlexibleInventory.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\bin\Debug\net10.0\FlexibleInventory.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\refint\FlexibleInventory.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\FlexibleInventory.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\FlexibleInventorySystem\FlexibleInventory\obj\Debug\net10.0\ref\FlexibleInventory.dll

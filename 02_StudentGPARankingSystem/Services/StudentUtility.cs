@@ -6,7 +6,7 @@ namespace Services
 {
     public class StudentUtility
     {
-        public static SortedDictionary<double, List<Student>> StudentsData = new SortedDictionary<double, List<Student>>();
+        public static SortedDictionary<double, List<Student>> StudentsData = new SortedDictionary<double, List<Student>>(Comparer<double>.Create(a,b)=>b.CompareTo(a));
 
         public void AddStudent( Student student)
         {

@@ -1,0 +1,15 @@
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.AssemblyInfoInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.AssemblyInfo.cs
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.csproj.CoreCompileInputs.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.sourcelink.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\bin\Debug\net10.0\SensorDataNormalizer.exe
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\bin\Debug\net10.0\SensorDataNormalizer.deps.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\bin\Debug\net10.0\SensorDataNormalizer.runtimeconfig.json
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\bin\Debug\net10.0\SensorDataNormalizer.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\bin\Debug\net10.0\SensorDataNormalizer.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\refint\SensorDataNormalizer.dll
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.pdb
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\SensorDataNormalizer.genruntimeconfig.cache
+C:\Users\Nuthan Reddy\source\repos\Top Brains\ScenarioQuestions17thFeb\SensorDataNormalizer\obj\Debug\net10.0\ref\SensorDataNormalizer.dll
